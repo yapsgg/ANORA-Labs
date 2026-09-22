@@ -58,25 +58,16 @@ export const metadata: Metadata = {
     siteName: "ANORA Labs",
     type: "website",
     url: "/",
-    images: [
-      {
-        url: "/images/cover.png",
-        width: 1200,
-        height: 630,
-        alt: SITE_TITLE,
-      },
-    ],
   },
-  
+
   icons: {
-    icon: '/favicon.ico',
+    icon: '/logos/anora-mark.svg',
   },
 
   twitter: {
     card: 'summary_large_image',
     title: SITE_TITLE,
     description: SITE_DESCRIPTION,
-    images: ['/images/cover.png'],
     site: '@yapsgg',
     creator: '@yapsgg',
   },
