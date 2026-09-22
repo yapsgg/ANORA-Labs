@@ -1,0 +1,11 @@
+/* React Flow Overrides */
+.react-flow__nodesselection-rect, .react-flow__selection {
+    background: oklch(0.55 0.01 286 / 10%) !important;
+    border: 1px dotted var(--ring) !important;
+    stroke-width: 1px !important;
+    stroke-dasharray: none !important;
+}
+
+.react-flow__pane {
+    cursor: url('/public/svgs/cursor.svg') 0 0, auto;
+}
