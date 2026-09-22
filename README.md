@@ -109,6 +109,15 @@ lib/          Integrations — OpenRouter, Bunny, Polar, auth helpers
 public/       Static assets (fonts, images, logos)
 ```
 
+## Deployment
+
+The project deploys cleanly to [Vercel](https://vercel.com). Set the variables
+from [`.env.example`](./.env.example) in your project's environment.
+
+`NEXT_PUBLIC_CONVEX_URL` is **required at build time** (it is inlined into the
+client bundle), so add it before the first deploy — otherwise prerendering of
+the authenticated routes fails.
+
 ## Contributing
 
 Contributions are welcome. Please read [`CONTRIBUTING.md`](./CONTRIBUTING.md)
