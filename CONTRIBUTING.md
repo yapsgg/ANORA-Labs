@@ -40,7 +40,7 @@ Write short, imperative commit messages (for example,
 
 ## Reporting bugs and requesting features
 
-Open a [GitHub issue](https://github.com/yapsgg/anora/issues). Include
+Open a [GitHub issue](https://github.com/yapsgg/ANORA-Labs/issues). Include
 reproduction steps, expected behavior, and your environment where relevant.
 
 ## License

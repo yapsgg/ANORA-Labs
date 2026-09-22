@@ -5,7 +5,7 @@
 Please do **not** open a public issue for security vulnerabilities.
 
 Instead, report them privately using GitHub's
-[private vulnerability reporting](https://github.com/yapsgg/anora/security/advisories/new)
+[private vulnerability reporting](https://github.com/yapsgg/ANORA-Labs/security/advisories/new)
 or by contacting the maintainers through <https://github.com/yapsgg>.
 
 Include as much detail as you can:

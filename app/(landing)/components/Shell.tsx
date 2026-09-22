@@ -137,16 +137,16 @@ export function SiteFooter() {
             links={[
               ["About", "https://github.com/yapsgg"],
               ["Careers", "https://github.com/yapsgg"],
-              ["Contact", "https://github.com/yapsgg/anora/issues"],
+              ["Contact", "https://github.com/yapsgg/ANORA-Labs/issues"],
             ]}
           />
           <FooterCol
             title="Resources"
             external
             links={[
-              ["Documentation", "https://github.com/yapsgg/anora#readme"],
-              ["Changelog", "https://github.com/yapsgg/anora/releases"],
-              ["Status", "https://github.com/yapsgg/anora/issues"],
+              ["Documentation", "https://github.com/yapsgg/ANORA-Labs#readme"],
+              ["Changelog", "https://github.com/yapsgg/ANORA-Labs/releases"],
+              ["Status", "https://github.com/yapsgg/ANORA-Labs/issues"],
             ]}
           />
         </div>
